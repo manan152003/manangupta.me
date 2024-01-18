@@ -6,11 +6,11 @@ export const RESUME_DATA = {
   location: "Ahmedabad, Gujarat, India",
   locationLink: "https://www.google.com/maps/place/ahmedabad",
   about:
-    "Undergrad Student who loves to explore new technologies and build cool stuff.",
+    "Undergrad student passionate about exploring new technologies and building innovative projects.",
   summary:
-    "Computer Science undergraduate with a focus on CV, AR/VR, and deep learning AI. Eager to learn new technologies. Enjoys producing music and graphic design in free time.",
+    "I am a Computer Science undergraduate with a keen interest in computer vision, augmented reality/virtual reality (AR/VR), and deep learning within the field of artificial intelligence. I am enthusiastic about exploring new technologies and continuously expanding my skill set. In addition to my academic pursuits, I devote my free time to producing music and engaging in graphic design, showcasing a well-rounded passion for creativity alongside my technical endeavors.",
   avatarUrl: "https://avatars.githubusercontent.com/u/99275086?v=4",
-  personalWebsiteUrl: "__PERSONAL_WEBSITE_URL__",
+  personalWebsiteUrl: "https://manan-gupta.vercel.app/",
   contact: {
     email: "gmanan.dev@gmail.com",
     tel: "+91 9510463438",
@@ -42,10 +42,10 @@ export const RESUME_DATA = {
   ],
 
   skills: [
-    "Programming Languages: Python, Java, C/C++, Bash, JavaScript, MATLAB(Basics)",
+    "Programming Languages: Python, Java, C/C++, Bash, JavaScript, TypeScript, MATLAB(Basics)",
     "Databases: MySQL, MongoDB",
     "Frameworks/Libraries: NumPy, Pandas, Matplotlib, OpenCV, PIL, Tensorflow, Keras, PyTorch, Transformers, Streamlit, Flask, ROS",
-    "Tools/Platforms: Postman, Git, GNU/Linux, Docker, Figma",
+    "Tools/Platforms: Postman, Git, GNU/Linux, Docker, Figma,",
   ],
   projects: [
     {
@@ -98,7 +98,7 @@ export const RESUME_DATA = {
         "Creating a personal minimalistic website using Next.js and shadcn/ui",
       link: {
         label: "manan.dev",
-        href: "",
+        href: "https://manan-gupta.vercel.app/",
       },
     },
     {
