@@ -45,7 +45,7 @@ export const RESUME_DATA = {
     "Programming Languages: Python, Java, C/C++, Bash, JavaScript, TypeScript, MATLAB(Basics)",
     "Databases: MySQL, MongoDB",
     "Frameworks/Libraries: NumPy, Pandas, Matplotlib, OpenCV, PIL, Tensorflow, Keras, PyTorch, Transformers, Streamlit, Flask, ROS",
-    "Tools/Platforms: Postman, Git, GNU/Linux, Docker, Figma,",
+    "Tools/Platforms: Postman, Git, GNU/Linux, Docker, Figma",
   ],
   projects: [
     {
@@ -75,7 +75,7 @@ export const RESUME_DATA = {
       title: "Subway Surfers using Head Pose Estimation",
       techStack: ["Side Project", "Mediapipe", "Python", "OpenCV"],
       description:
-        "My personal website and blog. Built with Next.js and Notion API",
+        "Developed the primary HCI (Human-Computer Interaction) element for the game through head pose estimation.",
       link: {
         label: "github.com/manan152003/Subway-Surfers-AR",
         href: "https://github.com/manan152003/Subway-Surfers-AR",
@@ -85,17 +85,17 @@ export const RESUME_DATA = {
       title: "A.I. based Attendance System",
       techStack: ["Side Project", "Python", "OpenCV"],
       description:
-        "",
+        "A computer vision attendance system with face scanning and marking components. It captures faces, predicts identities from facial features, and records attendance in an Excel sheet. Ideal for small businesses or classrooms, enhancing accuracy and simplifying attendance tracking",
       link: {
         label: "",
         href: "",
       },
     },
     {
-      title: "Personal Website ",
+      title: "Portfolio Website ",
       techStack: ["Side Project", "Next.js", "Tailwind CSS"],
       description:
-        "Creating a personal minimalistic website using Next.js and shadcn/ui",
+        "Creating a personal minimalistic website using Next.js and shadcn/ui.",
       link: {
         label: "manan.dev",
         href: "https://manan-gupta.vercel.app/",
